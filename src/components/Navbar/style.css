@@ -1,0 +1,31 @@
+.Navbar {
+    width: 100%;
+    height: 5rem;
+    display: flex;
+    float: left;
+    align-items: flex-end;
+    background-color: rgb(58, 2, 2);
+}   
+.menulist {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1px;
+    color: white;
+    text-align: right;
+
+}
+h3{
+    padding-left: 2px;
+    margin-left: 10px;
+
+}
+h3:hover{
+    background-color: rgb(243, 64, 64);
+    
+}
+.logo  {
+    text-align: left;
+    color: rgb(18, 246, 216);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 700;
+}
